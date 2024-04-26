@@ -1,11 +1,11 @@
-site_name: 'ESIIL Postdoctoral Researcher OASIS'
-site_description: 'Central resource for ESIIL postdoctoral researchers'
+site_name: 'Jim Sanovia'
+site_description: 'Personal Portfolio of Jim Sanovia'
 site_author: Ty Tuff
-site_url: https://cu-esiil.github.io/Postdoc_OASIS
+site_url: https://HeSapa9.github.io/Jim_Sanovia
 
 # Repository
-repo_name: Postdoc_OASIS
-repo_url: https://github.com/CU-ESIIL/Postdoc_OASIS
+repo_name: Jim Sanovia
+repo_url: https://HeSapa9/Jim_Sanovia
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
